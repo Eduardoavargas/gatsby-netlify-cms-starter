@@ -1,6 +1,7 @@
 backend:
-  name: test-repo
+  name: github
   branch: master
+  repo: eduardoavargas/gatsby-netlify-cms-starter
 
 publish_mode: editorial_workflow
 media_folder: static/img
